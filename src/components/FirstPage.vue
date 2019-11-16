@@ -19,7 +19,7 @@ export default {
   name: 'FirstPage',
   data () {
     return {
-      msg: 'PMS project staging'
+      msg: 'PMS project staging tes for 2019-11-16 20:29'
     }
   }
 }
